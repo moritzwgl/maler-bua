@@ -87,7 +87,7 @@ $(function () {
 	  	document.querySelector("#showMap").addEventListener("click", function (e) { 
 	  		e.preventDefault(); 
 	  		$(".map_form_container").addClass("map_show"); 
-	  		document.querySelector(".contact_heading").innerText = "Location"; 
+	  		document.querySelector(".contact_heading").innerText = "Do bin i grod"; 
 	  	}); 
   	}
 	if (document.querySelector("#showForm")) { 
